@@ -25,7 +25,8 @@
 * **OSE Engine**  
    - Tenant manager (Spook)  
    - Language support  
-   - Global Exception Manager  
+   - Global Exception Manager
+   - License Service  
    - Database Managers (Tenant, DB Type, Plug & Play)  
 * **Gateway**
 * **OSE Core** (Common Library)
